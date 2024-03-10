@@ -12,6 +12,7 @@
 
 ![Leandro Braga GitHub stats](https://github-readme-stats.vercel.app/api?username=leobraga&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leobraga&layout=compact)
 ### Tecnologias usadas no dia-a-dia
 <div style="display:inline-block"><br/>
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
