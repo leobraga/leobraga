@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div><h3> Olá, eu sou Leandro Braga 🙋‍♂️</h3></div></br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leobraga)
